@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="P:\Ultimate Workspace\Programing\PythonWebDev\webvenv"
+VIRTUAL_ENV="P:\Ultimate Workspace\Programing\PythonWebDev\website\webvenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
